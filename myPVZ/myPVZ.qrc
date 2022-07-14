@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/Interface">
+        <file>images/Interface/background1.jpg</file>
+        <file>images/Interface/backgroundGrass.jpg</file>
+        <file>images/Interface/MainMenu.png</file>
+        <file>images/Interface/SeedChooser_Background.png</file>
+    </qresource>
+    <qresource prefix="/Others">
+        <file>images/Others/Exit.png</file>
+        <file>images/Others/Exit2.png</file>
+        <file>images/Others/Adventure_0.png</file>
+        <file>images/Others/Adventure_1.png</file>
+        <file>images/Others/Button.png</file>
+        <file>images/Others/ButtonPressed.png</file>
+        <file>images/Others/ButtonDefault.png</file>
+        <file>images/Others/ButtonDefaultPressed.png</file>
+        <file>images/Others/ButtonQuit.png</file>
+        <file>images/Others/ButtonQuitPressed.png</file>
+        <file>images/Others/ButtonUser1.png</file>
+        <file>images/Others/ButtonUser1Pressed.png</file>
+        <file>images/Others/ButtonUser2.png</file>
+        <file>images/Others/ButtonUser2Pressed.png</file>
+        <file>images/Others/FlagMeterParts1.png</file>
+        <file>images/Others/pea.gif</file>
+        <file>images/Others/QuitButton.png</file>
+        <file>images/Others/QuitButtonPressed.png</file>
+        <file>images/Others/SunBack.png</file>
+        <file>images/Others/ZombiesWon.png</file>
+        <file>images/Others/playerWin.png</file>
+        <file>images/Others/Shovel.png</file>
+        <file>images/Others/shovelSlot.png</file>
+        <file>images/Others/Sun.gif</file>
+    </qresource>
+    <qresource prefix="/Cards">
+        <file>images/Cards/card_wallnut.png</file>
+        <file>images/Cards/card_peashooter.png</file>
+        <file>images/Cards/card_cactus.png</file>
+        <file>images/Cards/card_spikeweed.png</file>
+        <file>images/Cards/card_sunflower.png</file>
+    </qresource>
+    <qresource prefix="/Plants">
+        <file>images/Plants/blockLogo.png</file>
+        <file>images/Plants/wallnut/wallnut.gif</file>
+        <file>images/Plants/wallnut/Wallnut_cracked1.gif</file>
+        <file>images/Plants/wallnut/Wallnut_cracked2.gif</file>
+        <file>images/Plants/peashooter/peashooter.gif</file>
+        <file>images/Plants/cactus/cactus.gif</file>
+        <file>images/Plants/cactus/Projectile32.png</file>
+        <file>images/Plants/spikeweed/spikeweed.gif</file>
+        <file>images/Plants/sunflower/sunflower.gif</file>
+    </qresource>
+    <qresource prefix="/Zombies">
+        <file>images/Zombies/BoomDie.gif</file>
+        <file>images/Zombies/NormalZombie/Zombie.gif</file>
+        <file>images/Zombies/NormalZombie/ZombieAttack.gif</file>
+        <file>images/Zombies/NormalZombie/ZombieDie.gif</file>
+        <file>images/Zombies/NormalZombie/ZombieHead.gif</file>
+        <file>images/Zombies/BalloonZombie/1.gif</file>
+        <file>images/Zombies/BalloonZombie/Attack.gif</file>
+        <file>images/Zombies/BalloonZombie/Die.gif</file>
+        <file>images/Zombies/BalloonZombie/Drop.gif</file>
+        <file>images/Zombies/BalloonZombie/Walk.gif</file>
+        <file>images/Zombies/FlagZombie/brain.png</file>
+        <file>images/Zombies/FlagZombie/FlagZombie.gif</file>
+        <file>images/Zombies/FlagZombie/FlagZombieAttack.gif</file>
+        <file>images/Zombies/FlagZombie/FlagZombieLostHead.gif</file>
+        <file>images/Zombies/FlyingZombie/1.gif</file>
+        <file>images/Zombies/FlyingZombie/Die.gif</file>
+        <file>images/Zombies/FlyingZombie/Drop.gif</file>
+        <file>images/Zombies/FlyingZombie/Walk.gif</file>
+    </qresource>
+</RCC>
